@@ -1,0 +1,44 @@
+.btn-1{
+    background:#c63928;
+    color: white;
+    padding: 2px;
+    height:40px;
+    width: 150px;
+  
+    font-size: 20px; 
+    border:none;
+    
+    
+    
+}
+.btn-2{
+    margin:20px;
+    background:yellow;
+    color:#3265f6;
+    padding:2px;
+    height:40px;
+    width:80px;
+    font-size:20px;
+    border-color:#3265f6;
+    
+
+    
+}
+
+.btn-4{
+    margin:20;
+    padding:10px 45px;
+    border:none;
+    height: 40px;
+    background:paleturquoise;
+    color:#7256eb;
+    border-radius: 25px;
+    font-size:15px;
+    color:white;
+    
+
+}
+.btn3{
+    margin: 20;
+    border: #7256eb
+}
